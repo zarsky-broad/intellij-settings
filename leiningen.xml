@@ -1,0 +1,5 @@
+<application>
+  <component name="LeiningenRunnerSettings">
+    <option name="leiningenPath" value="/usr/local/bin/lein" />
+  </component>
+</application>

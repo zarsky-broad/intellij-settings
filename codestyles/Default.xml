@@ -1,0 +1,10 @@
+<code_scheme name="Default">
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/align-maps false
+  :cursive.formatting/comment-align-column 0
+  :cursive.formatting/one-space-lists true
+}</ClojureCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+</code_scheme>

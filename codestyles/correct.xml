@@ -1,0 +1,27 @@
+<code_scheme name="correct" version="173">
+  <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="100" />
+  <ClojureCodeStyleSettings>{
+  :broadfcui.utils/multi-swap! 1
+  :broadfcui.utils/switch :only-indent
+  :cursive.formatting/align-maps false
+  :cursive.formatting/comment-align-column 0
+  :cursive.formatting/one-space-lists true
+  :dmohs.react.core/if-not-optimized :only-indent
+}</ClojureCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <codeStyleSettings language="Clojure">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
