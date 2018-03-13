@@ -5,6 +5,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/gapi" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/gapi.auth2" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/jest" type="javaScript">
       <CLASSES />
       <JAVADOC />
