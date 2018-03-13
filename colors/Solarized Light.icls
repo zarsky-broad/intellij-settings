@@ -1173,7 +1173,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="b58900" />
+        <option name="EFFECT_COLOR" value="2c3bb5" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -72692,7 +72692,7 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ffdf80" />
+        <option name="BACKGROUND" value="ebc700" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
