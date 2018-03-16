@@ -1369,9 +1369,7 @@
       </value>
     </option>
     <option name="JS.DOC_MARKUP">
-      <value>
-        <option name="BACKGROUND" value="eee8d5" />
-      </value>
+      <value />
     </option>
     <option name="JS.DOC_TAG">
       <value>
