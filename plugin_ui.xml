@@ -1,5 +1,5 @@
 <application>
-  <component name="PluginManagerConfigurable">
+  <component name="PluginManagerConfigurable" availableProportions="0.2728732">
     <option name="installedSortByStatus" value="true" />
     <option name="UPDATE_IN_BACKGROUND" value="true" />
   </component>
