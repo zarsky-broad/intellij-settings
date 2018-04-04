@@ -2,38 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.ckhs</mask>
-      <mask>*.ckh</mask>
-      <mask>*.ck</mask>
-      <mask>*.clj</mask>
-      <mask>*.c</mask>
-      <mask>*.sh</mask>
-      <mask>-*.sh</mask>
-      <mask>-*.h</mask>
-      <mask>-*.</mask>
-      <mask>-*.ht</mask>
-      <mask>-*.html</mask>
-      <mask>*.html</mask>
-      <mask>!*.html</mask>
-      <mask>fc_in</mask>
-      <mask>fc_i</mask>
-      <mask>fc_</mask>
-      <mask>fc</mask>
-      <mask>f</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.scala</mask>
-      <mask>*.cl</mask>
-      <mask>*.cljs</mask>
-    </recentFileMasks>
   </component>
 </application>
