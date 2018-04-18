@@ -30,6 +30,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/react-test-renderer" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="loader" type="javaScript">
       <properties>
         <sourceFilesUrls>
