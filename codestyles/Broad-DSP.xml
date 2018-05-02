@@ -1,5 +1,6 @@
 <code_scheme name="Broad-DSP" version="173">
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="100" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
