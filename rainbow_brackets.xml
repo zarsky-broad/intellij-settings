@@ -2,6 +2,6 @@
   <component name="RainbowSettings">
     <option name="doNOTRainbowifyBracketsWithoutContent" value="true" />
     <option name="rainbowifyHTMLInsideJS" value="true" />
-    <option name="version" value="5.8" />
+    <option name="version" value="5.8.1" />
   </component>
 </application>
