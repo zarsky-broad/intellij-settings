@@ -45,6 +45,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/recompose" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="loader" type="javaScript">
       <properties>
         <sourceFilesUrls>
