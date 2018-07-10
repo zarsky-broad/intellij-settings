@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="100" />
   <option name="SOFT_MARGINS" value="100" />
   <ClojureCodeStyleSettings>{
+  :broadfcui.common.flex-utils/box :only-indent
   :broadfcui.common.links/create-external :only-indent
   :broadfcui.utils/multi-swap! 1
   :broadfcui.utils/switch :only-indent
