@@ -1542,6 +1542,11 @@
     <option name="KOTLIN_FUNCTION_CALL">
       <value />
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1554,9 +1559,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="eb952c" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
@@ -71380,6 +71383,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="73642" />
       </value>
     </option>
