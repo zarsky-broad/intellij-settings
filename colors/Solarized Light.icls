@@ -1,5 +1,6 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
@@ -157,6 +158,20 @@
     <option name="BASH.VAR_USE_COMPOSED">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BRACKET_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -508,6 +523,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value />
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -831,6 +849,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DOUBLE_QUOTE_ATTR">
+      <value />
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
@@ -1132,6 +1153,9 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="HTML_COMMENT">
       <value>
@@ -1518,6 +1542,11 @@
     <option name="KOTLIN_FUNCTION_CALL">
       <value />
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1530,9 +1559,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="eb952c" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
@@ -71356,6 +71383,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="73642" />
       </value>
     </option>
@@ -71459,6 +71487,13 @@
     <option name="Object">
       <value>
         <option name="FOREGROUND" value="b58800" />
+      </value>
+    </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fdf6e3" />
+        <option name="BACKGROUND" value="586e75" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_COMMENT">
@@ -72689,8 +72724,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="73642" />
-        <option name="BACKGROUND" value="ebc700" />
+        <option name="EFFECT_COLOR" value="ebc700" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>

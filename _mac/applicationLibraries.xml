@@ -1,11 +1,26 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/codemirror" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/express" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/gapi" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="@types/gapi.auth2" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/history" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -20,12 +35,27 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/prismjs" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/react" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="@types/react-dom" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/react-dropzone" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/recompose" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
