@@ -34,7 +34,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="RIGHT_MARGIN" value="120" />
+    <option name="RIGHT_MARGIN" value="150" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
