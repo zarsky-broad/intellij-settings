@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.cljs</mask>
     <mask>*.js</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
