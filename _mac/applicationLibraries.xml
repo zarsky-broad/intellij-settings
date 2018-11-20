@@ -10,6 +10,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/file-saver" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/gapi" type="javaScript">
       <CLASSES />
       <JAVADOC />
