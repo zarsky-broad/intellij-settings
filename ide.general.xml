@@ -12,5 +12,7 @@
     <entry key="SBT.system.in.process" value="true" />
     <entry key="search.everywhere.actions" value="false" />
     <entry key="ide.tooltip.initialDelay" value="595" />
+    <entry key="BSP.experimental.feature.enabled" value="false" />
+    <entry key="BSP.system.in.process" value="true" />
   </component>
 </application>
