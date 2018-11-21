@@ -4,11 +4,13 @@
       <blacklist language="TypeScript" />
       <blacklist language="Java" />
       <blacklist language="Scala" />
+      <blacklist language="JavaScript" />
       <blacklist language="PHP">
         <removed pattern="" />
       </blacklist>
+      <blacklist language="Groovy" />
       <blacklist language="Ruby" />
+      <blacklist language="Kotlin" />
     </blacklists>
-    <option id="js.show.names.for.all.args" value="true" />
   </component>
 </application>

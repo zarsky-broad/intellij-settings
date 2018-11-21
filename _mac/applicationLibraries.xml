@@ -124,7 +124,6 @@
       <CLASSES>
         <root url="file:///usr/local/lib/python3.6/site-packages" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
@@ -134,7 +133,6 @@
       <SOURCES>
         <root url="file:///usr/local/lib/python3.6/site-packages" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
