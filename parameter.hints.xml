@@ -12,5 +12,6 @@
       <blacklist language="Ruby" />
       <blacklist language="Kotlin" />
     </blacklists>
+    <option id="clojure.parameter.hints" value="true" />
   </component>
 </application>
