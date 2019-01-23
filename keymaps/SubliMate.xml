@@ -165,6 +165,9 @@
   <action id="Macro.Reformat">
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
+  <action id="Macro.Reformat ts">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextSplitter">

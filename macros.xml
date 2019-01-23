@@ -5,5 +5,10 @@
       <action id="SaveDocument" />
       <action id="Javascript.Linters.EsLint.Fix" />
     </macro>
+    <macro name="Reformat ts">
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+      <action id="TsLintFileFixAction" />
+    </macro>
   </component>
 </application>
