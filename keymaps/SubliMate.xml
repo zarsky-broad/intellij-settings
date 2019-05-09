@@ -64,6 +64,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CodeGlance.toggle" />
   <action id="Console.History.Next" />
   <action id="Console.Jdbc.Close">
     <keyboard-shortcut first-keystroke="shift meta f4" />
