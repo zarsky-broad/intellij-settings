@@ -15,6 +15,9 @@
   :cursive.formatting/comment-align-column 0
   :cursive.formatting/one-space-lists true
 }</ClojureCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="TYPE_ANNOTATION_IMPLICIT_MODIFIER" value="false" />
     <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
