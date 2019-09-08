@@ -60,6 +60,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/react-dom" type="javaScript">
       <CLASSES />
       <JAVADOC />
@@ -81,6 +86,11 @@
       <SOURCES />
     </library>
     <library name="@types/recompose" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/storybook__react" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
