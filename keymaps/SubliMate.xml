@@ -64,6 +64,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CodeGlance.toggle" />
   <action id="Console.History.Next" />
   <action id="Console.Jdbc.Close">
     <keyboard-shortcut first-keystroke="shift meta f4" />
@@ -162,9 +163,17 @@
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Macro.Reformat">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Macro.Reformat ts">
+    <keyboard-shortcut first-keystroke="shift meta alt l" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="NextSplitter" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl meta tab" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
@@ -181,6 +190,7 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
+  <action id="ReformatCode" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -200,12 +210,17 @@
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitParameters" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowReformatFileDialog" />
   <action id="StructuralSearchPlugin.StructuralReplaceAction" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
@@ -233,6 +248,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="Vcs.UpdateProject" />
   <action id="com.vladsch.idea.multimarkdown.editor.actions.editorLayout.ToggleSplitLayoutChangeAction" />
 </keymap>
