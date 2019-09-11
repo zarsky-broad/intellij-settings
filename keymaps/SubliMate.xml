@@ -200,10 +200,6 @@
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunConsole" />
   <action id="Scala.ShowImplicitParameters" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
