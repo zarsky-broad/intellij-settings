@@ -55,6 +55,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/promise-retry" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/puppeteer" type="javaScript">
       <CLASSES />
       <JAVADOC />
