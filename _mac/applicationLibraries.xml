@@ -5,6 +5,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/cors" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/express" type="javaScript">
       <CLASSES />
       <JAVADOC />
@@ -21,6 +26,11 @@
       <SOURCES />
     </library>
     <library name="@types/gapi.auth2" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/hapi__joi" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -96,6 +106,11 @@
       <SOURCES />
     </library>
     <library name="@types/storybook__react" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/uuid" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
