@@ -1,12 +1,6 @@
 <code_scheme name="Broad-DSP" version="173">
   <option name="RIGHT_MARGIN" value="100" />
   <option name="SOFT_MARGINS" value="100" />
-  <HCL-Terraform>
-    <option name="PROPERTY_ALIGNMENT" value="2" />
-    <option name="PROPERTY_LINE_COMMENTER_CHARACTER" value="1" />
-    <option name="OBJECT_WRAPPING" value="5" />
-    <option name="ARRAY_WRAPPING" value="1" />
-  </HCL-Terraform>
   <HTMLCodeStyleSettings>
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
