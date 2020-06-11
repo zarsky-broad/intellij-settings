@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.conf.ctmpl" lang="HOCON" />
+  </component>
+</application>
