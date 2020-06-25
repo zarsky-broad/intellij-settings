@@ -13,5 +13,6 @@
     <entry key="ide.tooltip.initialDelay" value="595" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>

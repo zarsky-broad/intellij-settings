@@ -18,5 +18,7 @@
     <mask>*.cljs</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
+    <mask>!*.lock</mask>
+    <mask>!*lock*</mask>
   </component>
 </application>
