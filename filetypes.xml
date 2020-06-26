@@ -5,10 +5,10 @@
       <mapping pattern="*.properties.ctmpl" type="Go template" />
       <mapping pattern="*.tfstate.*" type="JSON" />
       <mapping ext="tfstate" type="JSON" />
-      <mapping pattern="externalComponents.js" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="externalComponents.js" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
