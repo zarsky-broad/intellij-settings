@@ -65,6 +65,18 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt subtract" />
+    <keyboard-shortcut first-keystroke="shift meta alt minus" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="Console.History.Next" />
   <action id="Console.Jdbc.Close">
     <keyboard-shortcut first-keystroke="shift meta f4" />
@@ -112,6 +124,10 @@
     <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
+    <keyboard-shortcut first-keystroke="shift meta alt equals" />
+  </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -150,6 +166,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoNamespace" />
+  <action id="GotoRelated" />
   <action id="GotoRow">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="ctrl g" />
