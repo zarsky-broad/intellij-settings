@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.conf.ctmpl" type="Go template" />
-      <mapping pattern="*.properties.ctmpl" type="Go template" />
       <mapping pattern="*.tfstate.*" type="JSON" />
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
