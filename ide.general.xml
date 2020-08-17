@@ -17,6 +17,7 @@
     <option name="widgets">
       <map>
         <entry key="TypeAwareHighlighting" value="false" />
+        <entry key="git" value="false" />
       </map>
     </option>
   </component>
