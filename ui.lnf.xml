@@ -4,7 +4,6 @@
   </component>
   <component name="UISettings">
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="12" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
