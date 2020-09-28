@@ -1,6 +1,7 @@
 <application>
   <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.conf.ctmpl" lang="HIL" />
     <pattern value="*.properties.ctmpl" lang="Properties" />
-    <pattern value="*.conf.ctmpl" lang="HOCON" />
+    <pattern value="*.md.gotmpl" lang="Markdown" />
   </component>
 </application>
