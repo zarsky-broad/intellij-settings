@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.md.gotmpl" type="Go Template" />
+      <mapping pattern="*.conf.ctmpl" type="Go Template" />
       <mapping pattern="*.tfstate.*" type="JSON" />
       <mapping ext="tfstate" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -14,12 +15,12 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="templates/*.yaml" approved="true" type="Go Template" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.tfstate*" approved="true" type="JSON" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping pattern="*.conf.ctmpl" approved="true" type="Go Template" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />

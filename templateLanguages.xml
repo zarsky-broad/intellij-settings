@@ -3,5 +3,6 @@
     <pattern value="*.conf.ctmpl" lang="HIL" />
     <pattern value="*.properties.ctmpl" lang="Properties" />
     <pattern value="*.md.gotmpl" lang="Markdown" />
+    <pattern value="templates/*.yaml" lang="yaml" />
   </component>
 </application>
