@@ -2,7 +2,7 @@
   <component name="ScalaSettings">
     <option name="COMPILE_SERVER_PORT" value="59390" />
     <option name="COMPILE_SERVER_ID" value="206ad353-4990-470e-b5a5-605a46aea4a2" />
-    <option name="COMPILE_SERVER_SDK" value="1.8" />
+    <option name="COMPILE_SERVER_SDK" value="Project Default" />
     <option name="COMPILE_SERVER_SHUTDOWN_DELAY" value="60" />
   </component>
 </application>
